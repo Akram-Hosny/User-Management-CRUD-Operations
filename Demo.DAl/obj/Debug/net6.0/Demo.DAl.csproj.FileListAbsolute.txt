@@ -1,0 +1,24 @@
+C:\Users\compuland\source\repos\Demo.DAl\Demo.DAl\bin\Debug\net6.0\Demo.DAl.deps.json
+C:\Users\compuland\source\repos\Demo.DAl\Demo.DAl\bin\Debug\net6.0\Demo.DAl.dll
+C:\Users\compuland\source\repos\Demo.DAl\Demo.DAl\bin\Debug\net6.0\Demo.DAl.pdb
+C:\Users\compuland\source\repos\Demo.DAl\Demo.DAl\obj\Debug\net6.0\Demo.DAl.csproj.AssemblyReference.cache
+C:\Users\compuland\source\repos\Demo.DAl\Demo.DAl\obj\Debug\net6.0\Demo.DAl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compuland\source\repos\Demo.DAl\Demo.DAl\obj\Debug\net6.0\Demo.DAl.AssemblyInfoInputs.cache
+C:\Users\compuland\source\repos\Demo.DAl\Demo.DAl\obj\Debug\net6.0\Demo.DAl.AssemblyInfo.cs
+C:\Users\compuland\source\repos\Demo.DAl\Demo.DAl\obj\Debug\net6.0\Demo.DAl.csproj.CoreCompileInputs.cache
+C:\Users\compuland\source\repos\Demo.DAl\Demo.DAl\obj\Debug\net6.0\Demo.DAl.dll
+C:\Users\compuland\source\repos\Demo.DAl\Demo.DAl\obj\Debug\net6.0\refint\Demo.DAl.dll
+C:\Users\compuland\source\repos\Demo.DAl\Demo.DAl\obj\Debug\net6.0\Demo.DAl.pdb
+C:\Users\compuland\source\repos\Demo.DAl\Demo.DAl\obj\Debug\net6.0\ref\Demo.DAl.dll
+F:\c# course\Cycle40_backend(.net)_route\Demo.DAl\Demo.DAl\bin\Debug\net6.0\Demo.DAl.deps.json
+F:\c# course\Cycle40_backend(.net)_route\Demo.DAl\Demo.DAl\bin\Debug\net6.0\Demo.DAl.dll
+F:\c# course\Cycle40_backend(.net)_route\Demo.DAl\Demo.DAl\bin\Debug\net6.0\Demo.DAl.pdb
+F:\c# course\Cycle40_backend(.net)_route\Demo.DAl\Demo.DAl\obj\Debug\net6.0\Demo.DAl.csproj.AssemblyReference.cache
+F:\c# course\Cycle40_backend(.net)_route\Demo.DAl\Demo.DAl\obj\Debug\net6.0\Demo.DAl.GeneratedMSBuildEditorConfig.editorconfig
+F:\c# course\Cycle40_backend(.net)_route\Demo.DAl\Demo.DAl\obj\Debug\net6.0\Demo.DAl.AssemblyInfoInputs.cache
+F:\c# course\Cycle40_backend(.net)_route\Demo.DAl\Demo.DAl\obj\Debug\net6.0\Demo.DAl.AssemblyInfo.cs
+F:\c# course\Cycle40_backend(.net)_route\Demo.DAl\Demo.DAl\obj\Debug\net6.0\Demo.DAl.csproj.CoreCompileInputs.cache
+F:\c# course\Cycle40_backend(.net)_route\Demo.DAl\Demo.DAl\obj\Debug\net6.0\Demo.DAl.dll
+F:\c# course\Cycle40_backend(.net)_route\Demo.DAl\Demo.DAl\obj\Debug\net6.0\refint\Demo.DAl.dll
+F:\c# course\Cycle40_backend(.net)_route\Demo.DAl\Demo.DAl\obj\Debug\net6.0\Demo.DAl.pdb
+F:\c# course\Cycle40_backend(.net)_route\Demo.DAl\Demo.DAl\obj\Debug\net6.0\ref\Demo.DAl.dll

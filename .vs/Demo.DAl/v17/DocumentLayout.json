@@ -1,0 +1,1056 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\roles\\addorremoveroletouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\roles\\addorremoveroletouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\compuland\\source\\repos\\Demo.DAl\\Demo.DAl\\Migrations\\20240322030722_AddNullsToUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\employee\\partialviews\\createorupdatepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\partialviews\\createorupdatepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\models\\userinroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\models\\userinroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.dal\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|solutionrelative:demo.dal\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.dal\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|solutionrelative:demo.dal\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.dal\\entities\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|solutionrelative:demo.dal\\entities\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.dal\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|solutionrelative:demo.dal\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.dal\\migrations\\20240318191127_addidentitytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|solutionrelative:demo.dal\\migrations\\20240318191127_addidentitytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC61B5D-0AA6-4F6A-A1B4-A9FC1F6781DB}|Demo.BAL\\Demo.BAL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.bal\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC61B5D-0AA6-4F6A-A1B4-A9FC1F6781DB}|Demo.BAL\\Demo.BAL.csproj|solutionrelative:demo.bal\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC61B5D-0AA6-4F6A-A1B4-A9FC1F6781DB}|Demo.BAL\\Demo.BAL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.bal\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC61B5D-0AA6-4F6A-A1B4-A9FC1F6781DB}|Demo.BAL\\Demo.BAL.csproj|solutionrelative:demo.bal\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.dal\\migrations\\20240322033855_addadmintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|solutionrelative:demo.dal\\migrations\\20240322033855_addadmintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC61B5D-0AA6-4F6A-A1B4-A9FC1F6781DB}|Demo.BAL\\Demo.BAL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.bal\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC61B5D-0AA6-4F6A-A1B4-A9FC1F6781DB}|Demo.BAL\\Demo.BAL.csproj|solutionrelative:demo.bal\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.dal\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|solutionrelative:demo.dal\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\helper\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\helper\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\models\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\models\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\models\\forgetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\models\\forgetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\helper\\documentsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\helper\\documentsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.dal\\demo.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|solutionrelative:demo.dal\\demo.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.dal\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|solutionrelative:demo.dal\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC61B5D-0AA6-4F6A-A1B4-A9FC1F6781DB}|Demo.BAL\\Demo.BAL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.bal\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC61B5D-0AA6-4F6A-A1B4-A9FC1F6781DB}|Demo.BAL\\Demo.BAL.csproj|solutionrelative:demo.bal\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC61B5D-0AA6-4F6A-A1B4-A9FC1F6781DB}|Demo.BAL\\Demo.BAL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.bal\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC61B5D-0AA6-4F6A-A1B4-A9FC1F6781DB}|Demo.BAL\\Demo.BAL.csproj|solutionrelative:demo.bal\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC61B5D-0AA6-4F6A-A1B4-A9FC1F6781DB}|Demo.BAL\\Demo.BAL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.bal\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC61B5D-0AA6-4F6A-A1B4-A9FC1F6781DB}|Demo.BAL\\Demo.BAL.csproj|solutionrelative:demo.bal\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC61B5D-0AA6-4F6A-A1B4-A9FC1F6781DB}|Demo.BAL\\Demo.BAL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.bal\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC61B5D-0AA6-4F6A-A1B4-A9FC1F6781DB}|Demo.BAL\\Demo.BAL.csproj|solutionrelative:demo.bal\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC61B5D-0AA6-4F6A-A1B4-A9FC1F6781DB}|Demo.BAL\\Demo.BAL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.bal\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC61B5D-0AA6-4F6A-A1B4-A9FC1F6781DB}|Demo.BAL\\Demo.BAL.csproj|solutionrelative:demo.bal\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.dal\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|solutionrelative:demo.dal\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.dal\\migrations\\20240302032445_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314E6109-44AC-417C-BD2B-8F67982EACCB}|Demo.DAl\\Demo.DAl.csproj|solutionrelative:demo.dal\\migrations\\20240302032445_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|f:\\c# course\\cycle40_backend(.net)_route\\demo.dal\\demo.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47286C7D-964D-406B-BCA0-CECE3EE5289C}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\RolesController.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAgwEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddOrRemoveRoleToUser.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Roles\\AddOrRemoveRoleToUser.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Roles\\AddOrRemoveRoleToUser.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Roles\\AddOrRemoveRoleToUser.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Roles\\AddOrRemoveRoleToUser.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:07.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAEwJwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:07.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\UsersController.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Program.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Program.cs",
+              "RelativeToolTip": "Demo.PL\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvyUAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateOrUpdatePartialView.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Employee\\PartialViews\\CreateOrUpdatePartialView.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\PartialViews\\CreateOrUpdatePartialView.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Employee\\PartialViews\\CreateOrUpdatePartialView.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\PartialViews\\CreateOrUpdatePartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:07.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\EmployeeController.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAowGoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:07.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Models\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Models\\EmployeeViewModel.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Models\\EmployeeViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\Models\\EmployeeViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserInRoleViewModel.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Models\\UserInRoleViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Models\\UserInRoleViewModel.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Models\\UserInRoleViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\Models\\UserInRoleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Roles\\Index.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Roles\\Index.cshtml",
+              "ViewState": "AQIAADcAAAAA+DIzMzPbv0cAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:07.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Department\\Create.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Department\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:07.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Users\\Details.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Users\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:07.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:07.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Demo.DAl\\Entities\\Employee.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Entities\\Employee.cs",
+              "RelativeToolTip": "Demo.DAl\\Entities\\Employee.cs",
+              "ViewState": "AQIAABAAAADAMjMzM/MnwBwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Demo.DAl\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Demo.DAl\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAA0AAADA//////8twFcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:07.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Entities\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "Demo.DAl\\Entities\\ApplicationRole.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Entities\\ApplicationRole.cs",
+              "RelativeToolTip": "Demo.DAl\\Entities\\ApplicationRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Roles\\Create.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Roles\\Create.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Roles\\Create.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Roles\\Create.cshtml",
+              "ViewState": "AQIAAAAAAABAZmZmZmYkwA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:07.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Users\\Index.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:07.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:07.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Account\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Account\\SignIn.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Account\\SignIn.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Account\\SignIn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:07.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Department\\Index.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Department\\Index.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAMAtwC0AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:07.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Department\\Details.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Department\\Details.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Department\\Details.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Department\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:07.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Department\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Department\\Edit.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Department\\Edit.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Department\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:07.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Demo.DAl\\Entities\\ApplicationUser.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Demo.DAl\\Entities\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240318191127_AddIdentityTable.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Migrations\\20240318191127_AddIdentityTable.cs",
+              "RelativeDocumentMoniker": "Demo.DAl\\Migrations\\20240318191127_AddIdentityTable.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Migrations\\20240318191127_AddIdentityTable.cs",
+              "RelativeToolTip": "Demo.DAl\\Migrations\\20240318191127_AddIdentityTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.BAL\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Demo.BAL\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.BAL\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Demo.BAL\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.BAL\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Demo.BAL\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.BAL\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Demo.BAL\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwBcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240322033855_AddAdminTable.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Migrations\\20240322033855_AddAdminTable.cs",
+              "RelativeDocumentMoniker": "Demo.DAl\\Migrations\\20240322033855_AddAdminTable.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Migrations\\20240322033855_AddAdminTable.cs",
+              "RelativeToolTip": "Demo.DAl\\Migrations\\20240322033855_AddAdminTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240322030722_AddNullsToUser.cs",
+              "DocumentMoniker": "C:\\Users\\compuland\\source\\repos\\Demo.DAl\\Demo.DAl\\Migrations\\20240322030722_AddNullsToUser.cs",
+              "ToolTip": "C:\\Users\\compuland\\source\\repos\\Demo.DAl\\Demo.DAl\\Migrations\\20240322030722_AddNullsToUser.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:07:22.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.BAL\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Demo.BAL\\Interfaces\\IDepartmentRepository.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.BAL\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeToolTip": "Demo.BAL\\Interfaces\\IDepartmentRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "Demo.DAl\\Entities\\Admin.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Entities\\Admin.cs",
+              "RelativeToolTip": "Demo.DAl\\Entities\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Account\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Account\\SignUp.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Account\\SignUp.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Account\\SignUp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:07.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SignUpViewModel.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Models\\SignUpViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Models\\SignUpViewModel.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Models\\SignUpViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\Models\\SignUpViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:07.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Email.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Helper\\Email.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Helper\\Email.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Helper\\Email.cs",
+              "RelativeToolTip": "Demo.PL\\Helper\\Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SignInViewModel.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Models\\SignInViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Models\\SignInViewModel.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Models\\SignInViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\Models\\SignInViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ForgetPasswordViewModel.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Models\\ForgetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Models\\ForgetPasswordViewModel.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Models\\ForgetPasswordViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\Models\\ForgetPasswordViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Department\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Department\\Delete.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Department\\Delete.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Department\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:07.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_AccountLayout.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Shared\\_AccountLayout.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Shared\\_AccountLayout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:07.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Style.css",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\wwwroot\\css\\Style.css",
+              "RelativeDocumentMoniker": "Demo.PL\\wwwroot\\css\\Style.css",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\wwwroot\\css\\Style.css",
+              "RelativeToolTip": "Demo.PL\\wwwroot\\css\\Style.css",
+              "ViewState": "AQIAAJgCAAAAAAAAAAAowPsCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-28T22:21:07.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "site.css",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Demo.PL\\wwwroot\\css\\site.css",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Demo.PL\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-28T22:21:07.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:07.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Models\\ErrorViewModel.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DocumentSetting.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Helper\\DocumentSetting.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Helper\\DocumentSetting.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Helper\\DocumentSetting.cs",
+              "RelativeToolTip": "Demo.PL\\Helper\\DocumentSetting.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Demo.DAl.csproj",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Demo.DAl.csproj",
+              "RelativeDocumentMoniker": "Demo.DAl\\Demo.DAl.csproj",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Demo.DAl.csproj",
+              "RelativeToolTip": "Demo.DAl\\Demo.DAl.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-28T22:21:07.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Department.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Demo.DAl\\Entities\\Department.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Entities\\Department.cs",
+              "RelativeToolTip": "Demo.DAl\\Entities\\Department.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.BAL\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Demo.BAL\\Repository\\GenericRepository.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.BAL\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Demo.BAL\\Repository\\GenericRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.BAL\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Demo.BAL\\Repository\\UnitOfWork.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.BAL\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Demo.BAL\\Repository\\UnitOfWork.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.BAL\\Repository\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Demo.BAL\\Repository\\DepartmentRepository.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.BAL\\Repository\\DepartmentRepository.cs",
+              "RelativeToolTip": "Demo.BAL\\Repository\\DepartmentRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Mapper\\MappingProfile.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "Demo.PL\\Mapper\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:07.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAUAAADA/f////8AwAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:08.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\DepartmentController.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:08.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.BAL\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Demo.BAL\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.BAL\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Demo.BAL\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:08.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.BAL\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Demo.BAL\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.BAL\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Demo.BAL\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:08.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Demo.DAl\\Entities\\BaseEntity.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Demo.DAl\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:08.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:08.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20240302032445_Init.cs",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Migrations\\20240302032445_Init.cs",
+              "RelativeDocumentMoniker": "Demo.DAl\\Migrations\\20240302032445_Init.cs",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.DAl\\Migrations\\20240302032445_Init.cs",
+              "RelativeToolTip": "Demo.DAl\\Migrations\\20240302032445_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:08.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T22:21:08.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo.PL\\appsettings.json",
+              "ToolTip": "F:\\c# course\\Cycle40_backend(.net)_route\\Demo.DAl\\Demo.PL\\appsettings.json",
+              "RelativeToolTip": "Demo.PL\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T22:21:08.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
