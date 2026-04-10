@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace Demo.DAl.Entities
 {
     public class Admin
@@ -20,3 +21,4 @@ namespace Demo.DAl.Entities
         public string Address { get; set; }
     }
 }
+
