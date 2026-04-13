@@ -19,3 +19,9 @@ namespace Demo.BAL.Interfaces
         public void Update(T employee);
     }
 }
+
+
+
+
+
+
