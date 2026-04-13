@@ -21,3 +21,10 @@ namespace Demo.BAL.Interfaces
         //public int DeleteById(int? id);
     }
 }
+
+
+
+
+
+
+ 
