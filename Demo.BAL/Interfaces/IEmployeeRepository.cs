@@ -21,3 +21,12 @@ namespace Demo.BAL.Interfaces
         //public int Update(Employee employee);
     }
 }
+
+
+
+
+
+
+
+
+ 
